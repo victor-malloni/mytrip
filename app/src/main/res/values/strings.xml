@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyTrip</string>
     <string name="preco">preço</string>
-    <string name="distancia">distancia</string>
+    <string name="distancia">distância</string>
     <string name="autonomia">autonomia</string>
     <string name="calcular">Calcular</string>
     <string name="Valores_invalidos">Valor(es) inválido(s)</string>
